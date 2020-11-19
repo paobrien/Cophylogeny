@@ -7,15 +7,14 @@
 
 setwd("~/Documents/R/Ramaciotti_16S_dataset/Codivergence_and_Neutral/Codivergence")
 
-library(dplyr) #
-library(tidyr) #
-library(ggplot2) #
-library(tidygraph) #
-library(igraph) #
-library(phyloseq) #
-library(networkD3)
-library(cooccur) #
-library(ggraph) #
+library(dplyr) 
+library(tidyr) 
+library(ggplot2) 
+library(tidygraph) 
+library(igraph) 
+library(phyloseq) 
+library(cooccur) 
+library(ggraph) 
 library(cowplot)
 
 ## Load and format data ----
